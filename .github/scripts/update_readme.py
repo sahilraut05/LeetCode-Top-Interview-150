@@ -15,7 +15,7 @@ def generate_table_row(day, problem_id, problem_name, directory):
     return f"| {day} | [{problem_name}]({problem_link}) | [Solution]({solution_link}) |\n"
 
 def update_readme():
-    readme_path = "readme.md"
+    readme_path = "README.md"
     if os.path.exists(readme_path):
         with open(readme_path, 'r') as file:
             readme_content = file.read()
