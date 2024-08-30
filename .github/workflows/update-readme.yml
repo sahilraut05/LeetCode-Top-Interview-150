@@ -25,7 +25,7 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add readme.md
+        git add README.md
         git commit -m "Update readme.md"
     - name: Push changes
       if: steps.git-check.outputs.CHANGES_EXIST == 'true'
