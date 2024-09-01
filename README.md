@@ -40,6 +40,8 @@ The repository is structured as follows:
 | 1 | [Merge Sorted Array](001.LeetCode@88_Merge_Sorted_Array/001.LeetCode@88_Merge_Sorted_Array.md) | [Solution](001.LeetCode@88_Merge_Sorted_Array/001.LeetCode@88_Merge_Sorted_Array.java) |
 | 2 | [Remove Element](002.LeetCode@27_Remove_Element/002.LeetCode@27_Remove_Element.md) | [Solution](002.LeetCode@27_Remove_Element/002.LeetCode@27_Remove_Element.java) |
 | 3 | [Remove Duplicates from Sorted Array](003.LeetCode@26_Remove_Duplicates_from_Sorted_Array/003.LeetCode@26_Remove_Duplicates_from_Sorted_Array.md) | [Solution](003.LeetCode@26_Remove_Duplicates_from_Sorted_Array/003.LeetCode@26_Remove_Duplicates_from_Sorted_Array.java) |
+| 4 | [Remove Duplicates from Sorted Array II](004.LeetCode@80_Remove_Duplicates_from_Sorted_Array_II/004.LeetCode@80_Remove_Duplicates_from_Sorted_Array_II.md) | [Solution](004.LeetCode@80_Remove_Duplicates_from_Sorted_Array_II/004.LeetCode@80_Remove_Duplicates_from_Sorted_Array_II.java) |
+
 
 
 
