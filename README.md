@@ -42,6 +42,8 @@ The repository is structured as follows:
 | 3 | [Remove Duplicates from Sorted Array](003.LeetCode@26_Remove_Duplicates_from_Sorted_Array/003.LeetCode@26_Remove_Duplicates_from_Sorted_Array.md) | [Solution](003.LeetCode@26_Remove_Duplicates_from_Sorted_Array/003.LeetCode@26_Remove_Duplicates_from_Sorted_Array.java) |
 | 4 | [Remove Duplicates from Sorted Array II](004.LeetCode@80_Remove_Duplicates_from_Sorted_Array_II/004.LeetCode@80_Remove_Duplicates_from_Sorted_Array_II.md) | [Solution](004.LeetCode@80_Remove_Duplicates_from_Sorted_Array_II/004.LeetCode@80_Remove_Duplicates_from_Sorted_Array_II.java) |
 | 5 | [Majority Element](005.LeetCode@169_Majority_Element/005.LeetCode@169_Majority_Element.md) | [Solution](005.LeetCode@169_Majority_Element/005.LeetCode@169_Majority_Element.java) |
+| 6 | [Rotate Array](006.LeetCode@189_Rotate_Array/006.LeetCode@189_Rotate_Array.md) | [Solution](006.LeetCode@189_Rotate_Array/006.LeetCode@189_Rotate_Array.java) |
+
 
 
 
