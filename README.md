@@ -48,6 +48,8 @@ The repository is structured as follows:
 | 9 | [Jump Game](009.LeetCode@55_Jump_Game/009.LeetCode@55_Jump_Game.md) | [Solution](009.LeetCode@55_Jump_Game/009.LeetCode@55_Jump_Game.java) |
 | 10 | [Jump Game II](010.LeetCode@45_Jump_Game_II/010.LeetCode@45_Jump_Game_II.md) | [Solution](010.LeetCode@45_Jump_Game_II/010.LeetCode@45_Jump_Game_II.java) |
 | 11 | [H-Index](011.LeetCode@274_H-Index/011.LeetCode@274_H-Index.md) | [Solution](011.LeetCode@274_H-Index/011.LeetCode@274_H-Index.java) |
+| 12 | [Insert Delete GetRandom O(1)](012.LeetCode@380_Insert_Delete_GetRandom_O(1)/012.LeetCode@380_Insert_Delete_GetRandom_O(1).md) | [Solution](012.LeetCode@380_Insert_Delete_GetRandom_O(1)/012.LeetCode@380_Insert_Delete_GetRandom_O(1).java) |
+
 
 
 
