@@ -56,6 +56,8 @@ The repository is structured as follows:
 | 17 | [Roman to Integer](017.LeetCode@13_Roman_to_Integer/017.LeetCode@13_Roman_to_Integer.md) | [Solution](017.LeetCode@13_Roman_to_Integer/017.LeetCode@13_Roman_to_Integer.java) |
 | 18 | [Integer to Roman](018.LeetCode@12_Integer_to_Roman/018.LeetCode@12_Integer_to_Roman.md) | [Solution](018.LeetCode@12_Integer_to_Roman/018.LeetCode@12_Integer_to_Roman.java) |
 | 19 | [Length of Last Word](019.LeetCode@58_Length_of_Last_Word/019.LeetCode@58_Length_of_Last_Word.md) | [Solution](019.LeetCode@58_Length_of_Last_Word/019.LeetCode@58_Length_of_Last_Word.java) |
+| 20 | [Longest Common Prefix](020.LeetCode@14_Longest_Common_Prefix/020.LeetCode@14_Longest_Common_Prefix.md) | [Solution](020.LeetCode@14_Longest_Common_Prefix/020.LeetCode@14_Longest_Common_Prefix.java) |
+
 
 
 
