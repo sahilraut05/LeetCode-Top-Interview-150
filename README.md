@@ -58,6 +58,8 @@ The repository is structured as follows:
 | 19 | [Length of Last Word](019.LeetCode@58_Length_of_Last_Word/019.LeetCode@58_Length_of_Last_Word.md) | [Solution](019.LeetCode@58_Length_of_Last_Word/019.LeetCode@58_Length_of_Last_Word.java) |
 | 20 | [Longest Common Prefix](020.LeetCode@14_Longest_Common_Prefix/020.LeetCode@14_Longest_Common_Prefix.md) | [Solution](020.LeetCode@14_Longest_Common_Prefix/020.LeetCode@14_Longest_Common_Prefix.java) |
 | 21 | [Reverse Words in a String](021.LeetCode@151_Reverse_Words_in_a_String/021.LeetCode@151_Reverse_Words_in_a_String.md) | [Solution](021.LeetCode@151_Reverse_Words_in_a_String/021.LeetCode@151_Reverse_Words_in_a_String.java) |
+| 22 | [Zigzag Conversion](022.LeetCode@6_Zigzag_Conversion/022.LeetCode@6_Zigzag_Conversion.md) | [Solution](022.LeetCode@6_Zigzag_Conversion/022.LeetCode@6_Zigzag_Conversion.java) |
+
 
 
 
