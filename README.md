@@ -61,6 +61,8 @@ The repository is structured as follows:
 | 22 | [Zigzag Conversion](022.LeetCode@6_Zigzag_Conversion/022.LeetCode@6_Zigzag_Conversion.md) | [Solution](022.LeetCode@6_Zigzag_Conversion/022.LeetCode@6_Zigzag_Conversion.java) |
 | 23 | [Find the Index of the First Occurrence in a String](023.LeetCode@28_Find_the_Index_of_the_First_Occurrence_in_a_String/023.LeetCode@28_Find_the_Index_of_the_First_Occurrence_in_a_String.md) | [Solution](023.LeetCode@28_Find_the_Index_of_the_First_Occurrence_in_a_String/023.LeetCode@28_Find_the_Index_of_the_First_Occurrence_in_a_String.java) |
 | 24 | [Text Justification](024.LeetCode@68_Text_Justification/024.LeetCode@68_Text_Justification.md) | [Solution](024.LeetCode@68_Text_Justification/024.LeetCode@68_Text_Justification.java) |
+| 25 | [Valid Palindrome](025.LeetCode@125_Valid_Palindrome/025.LeetCode@125_Valid_Palindrome.md) | [Solution](025.LeetCode@125_Valid_Palindrome/025.LeetCode@125_Valid_Palindrome.java) |
+
 
 
 
