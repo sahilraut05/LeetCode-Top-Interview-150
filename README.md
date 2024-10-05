@@ -75,6 +75,8 @@ The repository is structured as follows:
 | 36 | [Rotate Image](036.LeetCode@48_Rotate_Image/036.LeetCode@48_Rotate_Image.md) | [Solution](036.LeetCode@48_Rotate_Image/036.LeetCode@48_Rotate_Image.java) |
 | 37 | [Set Matrix Zeroes](037.LeetCode@73_Set_Matrix_Zeroes/037.LeetCode@73_Set_Matrix_Zeroes.md) | [Solution](037.LeetCode@73_Set_Matrix_Zeroes/037.LeetCode@73_Set_Matrix_Zeroes.java) |
 | 38 | [Game of Life](038.LeetCode@289_Game_of_Life/038.LeetCode@289_Game_of_Life.md) | [Solution](038.LeetCode@289_Game_of_Life/038.LeetCode@289_Game_of_Life.java) |
+| 39 | [Ransom Note](039.LeetCode@383_Ransom_Note/039.LeetCode@383_Ransom_Note.md) | [Solution](039.LeetCode@383_Ransom_Note/039.LeetCode@383_Ransom_Note.java) |
+
 
 
 
