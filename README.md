@@ -77,6 +77,8 @@ The repository is structured as follows:
 | 38 | [Game of Life](038.LeetCode@289_Game_of_Life/038.LeetCode@289_Game_of_Life.md) | [Solution](038.LeetCode@289_Game_of_Life/038.LeetCode@289_Game_of_Life.java) |
 | 39 | [Ransom Note](039.LeetCode@383_Ransom_Note/039.LeetCode@383_Ransom_Note.md) | [Solution](039.LeetCode@383_Ransom_Note/039.LeetCode@383_Ransom_Note.java) |
 | 40 | [Isomorphic Strings](040.LeetCode@205_Isomorphic_Strings/040.LeetCode@205_Isomorphic_Strings.md) | [Solution](040.LeetCode@205_Isomorphic_Strings/040.LeetCode@205_Isomorphic_Strings.java) |
+| 41 | [Word Pattern](041.LeetCode@290_Word_Pattern/041.LeetCode@290_Word_Pattern.md) | [Solution](041.LeetCode@290_Word_Pattern/041.LeetCode@290_Word_Pattern.java) |
+
 
 
 
