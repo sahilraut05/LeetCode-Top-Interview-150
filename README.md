@@ -81,6 +81,8 @@ The repository is structured as follows:
 | 42 | [Valid Anagram](042.LeetCode@242_Valid_Anagram/042.LeetCode@242_Valid_Anagram.md) | [Solution](042.LeetCode@242_Valid_Anagram/042.LeetCode@242_Valid_Anagram.java) |
 | 43 | [Group Anagrams](043.LeetCode@49_Group_Anagrams/043.LeetCode@49_Group_Anagrams.md) | [Solution](043.LeetCode@49_Group_Anagrams/043.LeetCode@49_Group_Anagrams.java) |
 | 44 | [Two Sum](044.LeetCode@1_Two_Sum/044.LeetCode@1_Two_Sum.md) | [Solution](044.LeetCode@1_Two_Sum/044.LeetCode@1_Two_Sum.java) |
+| 45 | [Happy Number](045.LeetCode@202_Happy_Number/045.LeetCode@202_Happy_Number.md) | [Solution](045.LeetCode@202_Happy_Number/045.LeetCode@202_Happy_Number.java) |
+
 
 
 
