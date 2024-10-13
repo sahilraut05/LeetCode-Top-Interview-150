@@ -83,6 +83,8 @@ The repository is structured as follows:
 | 44 | [Two Sum](044.LeetCode@1_Two_Sum/044.LeetCode@1_Two_Sum.md) | [Solution](044.LeetCode@1_Two_Sum/044.LeetCode@1_Two_Sum.java) |
 | 45 | [Happy Number](045.LeetCode@202_Happy_Number/045.LeetCode@202_Happy_Number.md) | [Solution](045.LeetCode@202_Happy_Number/045.LeetCode@202_Happy_Number.java) |
 | 46 | [Contains Duplicate II](046.LeetCode@219_Contains_Duplicate_II/046.LeetCode@219_Contains_Duplicate_II.md) | [Solution](046.LeetCode@219_Contains_Duplicate_II/046.LeetCode@219_Contains_Duplicate_II.java) |
+| 47 | [Longest Consecutive Sequence](047.LeetCode@128_Longest_Consecutive_Sequence/047.LeetCode@128_Longest_Consecutive_Sequence.md) | [Solution](047.LeetCode@128_Longest_Consecutive_Sequence/047.LeetCode@128_Longest_Consecutive_Sequence.java) |
+
 
 
 
