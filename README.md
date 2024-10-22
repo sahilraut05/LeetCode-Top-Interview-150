@@ -91,6 +91,8 @@ The repository is structured as follows:
 | 52 | [Valid Parentheses](052.LeetCode@20_Valid_Parentheses/052.LeetCode@20_Valid_Parentheses.md) | [Solution](052.LeetCode@20_Valid_Parentheses/052.LeetCode@20_Valid_Parentheses.java) |
 | 53 | [Simplify Path](053.LeetCode@71_Simplify_Path/053.LeetCode@71_Simplify_Path.md) | [Solution](053.LeetCode@71_Simplify_Path/053.LeetCode@71_Simplify_Path.java) |
 | 54 | [Min Stack](054.LeetCode@155_Min_Stack/054.LeetCode@155_Min_Stack.md) | [Solution](054.LeetCode@155_Min_Stack/054.LeetCode@155_Min_Stack.java) |
+| 55 | [Evaluate Reverse Polish Notation](055.LeetCode@150_Evaluate_Reverse_Polish_Notation/055.LeetCode@150_Evaluate_Reverse_Polish_Notation.md) | [Solution](055.LeetCode@150_Evaluate_Reverse_Polish_Notation/055.LeetCode@150_Evaluate_Reverse_Polish_Notation.java) |
+
 
 
 
