@@ -106,6 +106,8 @@ The repository is structured as follows:
 | 67 | [LRU Cache](067.LeetCode@146_LRU_Cache/067.LeetCode@146_LRU_Cache.md) | [Solution](067.LeetCode@146_LRU_Cache/067.LeetCode@146_LRU_Cache.java) |
 | 68 | [Maximum Depth of Binary Tree](068.LeetCode@104_Maximum_Depth_of_Binary_Tree/068.LeetCode@104_Maximum_Depth_of_Binary_Tree.md) | [Solution](068.LeetCode@104_Maximum_Depth_of_Binary_Tree/068.LeetCode@104_Maximum_Depth_of_Binary_Tree.java) |
 | 69 | [Same Tree](069.LeetCode@100_Same_Tree/069.LeetCode@100_Same_Tree.md) | [Solution](069.LeetCode@100_Same_Tree/069.LeetCode@100_Same_Tree.java) |
+| 70 | [Invert Binary Tree](070.LeetCode@226_Invert_Binary_Tree/070.LeetCode@226_Invert_Binary_Tree.md) | [Solution](070.LeetCode@226_Invert_Binary_Tree/070.LeetCode@226_Invert_Binary_Tree.java) |
+
 
 
 
