@@ -108,6 +108,9 @@ The repository is structured as follows:
 | 69 | [Same Tree](069.LeetCode@100_Same_Tree/069.LeetCode@100_Same_Tree.md) | [Solution](069.LeetCode@100_Same_Tree/069.LeetCode@100_Same_Tree.java) |
 | 70 | [Invert Binary Tree](070.LeetCode@226_Invert_Binary_Tree/070.LeetCode@226_Invert_Binary_Tree.md) | [Solution](070.LeetCode@226_Invert_Binary_Tree/070.LeetCode@226_Invert_Binary_Tree.java) |
 | 71 | [Symmetric Tree](071.LeetCode@101_Symmetric_Tree/071.LeetCode@101_Symmetric_Tree.md) | [Solution](071.LeetCode@101_Symmetric_Tree/071.LeetCode@101_Symmetric_Tree.java) |
+| 72 | [Construct Binary Tree from Preorder and Inorder Traversal](072.LeetCode@105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal/072.LeetCode@105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.md) | [Solution](072.LeetCode@105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal/072.LeetCode@105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.java) |
+| 73 | [Construct Binary Tree from Inorder and Postorder Traversal](073.LeetCode@106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal/073.LeetCode@106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.md) | [Solution](073.LeetCode@106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal/073.LeetCode@106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.java) |
+
 
 
 
