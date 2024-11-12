@@ -110,6 +110,9 @@ The repository is structured as follows:
 | 71 | [Symmetric Tree](071.LeetCode@101_Symmetric_Tree/071.LeetCode@101_Symmetric_Tree.md) | [Solution](071.LeetCode@101_Symmetric_Tree/071.LeetCode@101_Symmetric_Tree.java) |
 | 72 | [Construct Binary Tree from Preorder and Inorder Traversal](072.LeetCode@105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal/072.LeetCode@105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.md) | [Solution](072.LeetCode@105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal/072.LeetCode@105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.java) |
 | 73 | [Construct Binary Tree from Inorder and Postorder Traversal](073.LeetCode@106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal/073.LeetCode@106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.md) | [Solution](073.LeetCode@106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal/073.LeetCode@106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.java) |
+| 75 | [Flatten BinaryTree to Linked List](075.LeetCode@114_Flatten_BinaryTree_to_Linked_List/075.LeetCode@114_Flatten_BinaryTree_to_Linked_List.md) | [Solution](075.LeetCode@114_Flatten_BinaryTree_to_Linked_List/075.LeetCode@114_Flatten_BinaryTree_to_Linked_List.java) |
+| 76 | [Path Sum](076.LeetCode@112_Path_Sum/076.LeetCode@112_Path_Sum.md) | [Solution](076.LeetCode@112_Path_Sum/076.LeetCode@112_Path_Sum.java) |
+
 
 
 
