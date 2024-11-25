@@ -122,9 +122,10 @@ The repository is structured as follows:
 | 84 | [Binary Tree Level Order Traversal](084.LeetCode@102_Binary_Tree_Level_Order_Traversal/084.LeetCode@102_Binary_Tree_Level_Order_Traversal.md) | [Solution](084.LeetCode@102_Binary_Tree_Level_Order_Traversal/084.LeetCode@102_Binary_Tree_Level_Order_Traversal.java) |
 | 85 | [Binary Tree Zigzag Level Order Traversal](085.LeetCode@103_Binary_Tree_Zigzag_Level_Order_Traversal/085.LeetCode@103_Binary_Tree_Zigzag_Level_Order_Traversal.md) | [Solution](085.LeetCode@103_Binary_Tree_Zigzag_Level_Order_Traversal/085.LeetCode@103_Binary_Tree_Zigzag_Level_Order_Traversal.java) |
 | 86 | [Minimum Absolute Difference in BST](086.LeetCode@530_Minimum_Absolute_Difference_in_BST/086.LeetCode@530_Minimum_Absolute_Difference_in_BST.md) | [Solution](086.LeetCode@530_Minimum_Absolute_Difference_in_BST/086.LeetCode@530_Minimum_Absolute_Difference_in_BST.java) |
-| 87 | [Minimum Absolute Difference in BST](087.LeetCode@530_Minimum_Absolute_Difference_in_BST/087.LeetCode@530_Minimum_Absolute_Difference_in_BST.md) | [Solution](087.LeetCode@530_Minimum_Absolute_Difference_in_BST/087.LeetCode@530_Minimum_Absolute_Difference_in_BST.java) |
 | 87 | [Kth Smallest Element in a BST](087.LeetCode@230_Kth_Smallest_Element_in_a_BST/087.LeetCode@230_Kth_Smallest_Element_in_a_BST.md) | [Solution](087.LeetCode@230_Kth_Smallest_Element_in_a_BST/087.LeetCode@230_Kth_Smallest_Element_in_a_BST.java) |
 | 88 | [Validate Binary Search Tree](088.LeetCode@98_Validate_Binary_Search_Tree/088.LeetCode@98_Validate_Binary_Search_Tree.md) | [Solution](088.LeetCode@98_Validate_Binary_Search_Tree/088.LeetCode@98_Validate_Binary_Search_Tree.java) |
+| 89 | [Number of Islands](089.LeetCode@200_Number_of_Islands/089.LeetCode@200_Number_of_Islands.md) | [Solution](089.LeetCode@200_Number_of_Islands/089.LeetCode@200_Number_of_Islands.java) |
+
 
 
 
