@@ -129,6 +129,10 @@ The repository is structured as follows:
 | 91 | [Clone Graph](091.LeetCode@133_Clone_Graph/091.LeetCode@133_Clone_Graph.md) | [Solution](091.LeetCode@133_Clone_Graph/091.LeetCode@133_Clone_Graph.java) |
 | 92 | [Evaluate Division](092.LeetCode@399_Evaluate_Division/092.LeetCode@399_Evaluate_Division.md) | [Solution](092.LeetCode@399_Evaluate_Division/092.LeetCode@399_Evaluate_Division.java) |
 | 93 | [Course Schedule](093.LeetCode@207_Course_Schedule/093.LeetCode@207_Course_Schedule.md) | [Solution](093.LeetCode@207_Course_Schedule/093.LeetCode@207_Course_Schedule.java) |
+| 94 | [Course Schedule II](094.LeetCode@210_Course_Schedule_II/094.LeetCode@210_Course_Schedule_II.md) | [Solution](094.LeetCode@210_Course_Schedule_II/094.LeetCode@210_Course_Schedule_II.java) |
+| 95 | [Snakes and Ladders](095.LeetCode@909_Snakes_and_Ladders/095.LeetCode@909_Snakes_and_Ladders.md) | [Solution](095.LeetCode@909_Snakes_and_Ladders/095.LeetCode@909_Snakes_and_Ladders.java) |
+| 96 | [Minimum Genetic Mutation](096.LeetCode@433_Minimum_Genetic_Mutation/096.LeetCode@433_Minimum_Genetic_Mutation.md) | [Solution](096.LeetCode@433_Minimum_Genetic_Mutation/096.LeetCode@433_Minimum_Genetic_Mutation.java) |
+
 
 
 
