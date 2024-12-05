@@ -132,6 +132,10 @@ The repository is structured as follows:
 | 94 | [Course Schedule II](094.LeetCode@210_Course_Schedule_II/094.LeetCode@210_Course_Schedule_II.md) | [Solution](094.LeetCode@210_Course_Schedule_II/094.LeetCode@210_Course_Schedule_II.java) |
 | 95 | [Snakes and Ladders](095.LeetCode@909_Snakes_and_Ladders/095.LeetCode@909_Snakes_and_Ladders.md) | [Solution](095.LeetCode@909_Snakes_and_Ladders/095.LeetCode@909_Snakes_and_Ladders.java) |
 | 96 | [Minimum Genetic Mutation](096.LeetCode@433_Minimum_Genetic_Mutation/096.LeetCode@433_Minimum_Genetic_Mutation.md) | [Solution](096.LeetCode@433_Minimum_Genetic_Mutation/096.LeetCode@433_Minimum_Genetic_Mutation.java) |
+| 97 | [Word Ladder](097.LeetCode@127_Word_Ladder/097.LeetCode@127_Word_Ladder.md) | [Solution](097.LeetCode@127_Word_Ladder/097.LeetCode@127_Word_Ladder.java) |
+| 98 | [Implement Trie](098.LeetCode@208_Implement_Trie/098.LeetCode@208_Implement_Trie.md) | [Solution](098.LeetCode@208_Implement_Trie/098.LeetCode@208_Implement_Trie.java) |
+| 99 | [Design Add and Search Words Data Structure](099.LeetCode@211_Design_Add_and_Search_Words_Data_Structure/099.LeetCode@211_Design_Add_and_Search_Words_Data_Structure.md) | [Solution](099.LeetCode@211_Design_Add_and_Search_Words_Data_Structure/099.LeetCode@211_Design_Add_and_Search_Words_Data_Structure.java) |
+
 
 
 
