@@ -138,6 +138,8 @@ The repository is structured as follows:
 | 100 | [Word Search II](100.LeetCode@212_Word_Search_II/100.LeetCode@212_Word_Search_II.md) | [Solution](100.LeetCode@212_Word_Search_II/100.LeetCode@212_Word_Search_II.java) |
 | 101 | [Letter Combinations of a Phone Number](101.LeetCode@17_Letter_Combinations_of_a_Phone_Number/101.LeetCode@17_Letter_Combinations_of_a_Phone_Number.md) | [Solution](101.LeetCode@17_Letter_Combinations_of_a_Phone_Number/101.LeetCode@17_Letter_Combinations_of_a_Phone_Number.java) |
 | 102 | [Combinations](102.LeetCode@77_Combinations/102.LeetCode@77_Combinations.md) | [Solution](102.LeetCode@77_Combinations/102.LeetCode@77_Combinations.java) |
+| 103 | [Permutation](103.LeetCode@46_Permutation/103.LeetCode@46_Permutation.md) | [Solution](103.LeetCode@46_Permutation/103.LeetCode@46_Permutation.java) |
+
 
 
 
