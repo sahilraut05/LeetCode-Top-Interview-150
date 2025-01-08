@@ -164,6 +164,8 @@ The repository is structured as follows:
 | 126 | [Reverse Bits](126.LeetCode@190_Reverse_Bits/126.LeetCode@190_Reverse_Bits.md) | [Solution](126.LeetCode@190_Reverse_Bits/126.LeetCode@190_Reverse_Bits.java) |
 | 127 | [Number of 1 Bits](127.LeetCode@191_Number_of_1_Bits/127.LeetCode@191_Number_of_1_Bits.md) | [Solution](127.LeetCode@191_Number_of_1_Bits/127.LeetCode@191_Number_of_1_Bits.java) |
 | 128 | [Single Number](128.LeetCode@136_Single_Number/128.LeetCode@136_Single_Number.md) | [Solution](128.LeetCode@136_Single_Number/128.LeetCode@136_Single_Number.java) |
+| 129 | [Single Number II](129.LeetCode@137_Single_Number_II/129.LeetCode@137_Single_Number_II.md) | [Solution](129.LeetCode@137_Single_Number_II/129.LeetCode@137_Single_Number_II.java) |
+
 
 
 
