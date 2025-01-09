@@ -166,6 +166,8 @@ The repository is structured as follows:
 | 128 | [Single Number](128.LeetCode@136_Single_Number/128.LeetCode@136_Single_Number.md) | [Solution](128.LeetCode@136_Single_Number/128.LeetCode@136_Single_Number.java) |
 | 129 | [Single Number II](129.LeetCode@137_Single_Number_II/129.LeetCode@137_Single_Number_II.md) | [Solution](129.LeetCode@137_Single_Number_II/129.LeetCode@137_Single_Number_II.java) |
 | 130 | [Bitwise AND of Numbers Range](130.LeetCode@201_Bitwise_AND_of_Numbers_Range/130.LeetCode@201_Bitwise_AND_of_Numbers_Range.md) | [Solution](130.LeetCode@201_Bitwise_AND_of_Numbers_Range/130.LeetCode@201_Bitwise_AND_of_Numbers_Range.java) |
+| 131 | [Palindrome Number](131.LeetCode@9_Palindrome_Number/131.LeetCode@9_Palindrome_Number.md) | [Solution](131.LeetCode@9_Palindrome_Number/131.LeetCode@9_Palindrome_Number.java) |
+
 
 
 
